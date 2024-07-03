@@ -10,7 +10,13 @@ This repository offers a comprehensive collection of resources on finance fundam
 All course materials, including lecture slides, reading lists, and assignments, will be available in this repository. 
 
 - Meeting Slides
-- Assignment 0 - Python and Pandas basics
+- Assignment 0 - Getting familiar with Python
+- Assignment 1 - Analyzing International Indices and Equities
+- Assignment 2 - Formulating a Trading Strategy
+- Mini Project - Implementation and Analysis of Financial Models
+- Assignment 3 - Volatility-Based Trading Strategy
+- Assignment 4 - Introduction to Game Theory
+- Final Projet - Replicating a Game-Theoretical Approach
 
 ## Learning Resources
 
@@ -36,6 +42,10 @@ All course materials, including lecture slides, reading lists, and assignments, 
   
 5) Basic Starter code for Algo Trading
     - Colab file - https://colab.research.google.com/drive/11ghnVsXAAOx9HBgjUCH8xyzfWBbCzrNa?usp=sharing
+  
+6) For understanding the basics of Game Theory
+    - 'Game theory for applied economists' by Robert Gibbons, is a superb book to get hold of the fundamentals and know the math behind them.
+
 ## Contributions
 This project is jointly offered by
   - Naman Gupta (namangupta22@iitk.ac.in)
