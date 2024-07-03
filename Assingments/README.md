@@ -6,7 +6,7 @@
 
 ### Assignment 1 : Analyzing International Indices and Equities
 
-> Objective: Choose 5 international indices and 5 equities from   `yfinance`, load the daily data since `2010-01-01`, and compute the Daily Returns, Cumulative Returns, Max Drawdowns, the Sharpe Ratio, and the Sortino Ratio.
+> Objective: Choose 5 international indices and 5 equities from   `yfinance`, load the daily data from `2022-01-01` to `2024-01-01`, and compute the Daily Returns, Cumulative Returns, Max Drawdowns, the Sharpe Ratio, and the Sortino Ratio.
 
 ### Assignment 2: Formulating a Trading Strategy
 
